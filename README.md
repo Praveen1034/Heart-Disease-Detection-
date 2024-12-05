@@ -1,7 +1,10 @@
 # **Heart-Disease-Detection Azure Machine Learning** 
 • Replicated a heart disease prediction model on Azure using Two-Class Logistic Regression.
+
 • Conducted data preprocessing, feature selection, and model training.
+
 • Performance: Accuracy: 86%, Precision: 86%, F1 Score: 87%, AUC: 92%.
+
 Key Skills: Azure ML Studio, Logistic Regression, Model Deployment.
 
 ![image](https://github.com/user-attachments/assets/abbb31c8-878b-4f94-9aab-4d4cf9618502)
